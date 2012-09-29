@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"    
+    android:layout_width="fill_parent"
+     android:layout_height="fill_parent"
+      android:orientation="vertical">
+      <TextView android:id="@+id/name_tv" 
+          android:layout_width="68dp"
+           android:layout_height="wrap_content" 
+           android:text="@string/Name"/>
+      
+      <EditText android:id="@+id/txtPerson"
+           android:layout_width="384dp"
+            android:layout_height="wrap_content"
+             android:layout_toRightOf="@+id/blood_grp" 
+             android:ems="10"
+              android:inputType="textPersonName"/>
+      <TextView android:id="@+id/blood_grp"
+           android:layout_width="100dp"
+            android:layout_height="wrap_content"
+             android:layout_alignParentLeft="true" 
+             android:layout_below="@+id/txtPerson"
+              android:text="@string/blood_label"/>
+      
+      <Spinner android:id="@+id/blood_desc" 
+          android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/txtPerson"
+             android:layout_alignTop="@+id/blood_grp"
+              android:entries="@array/blood_groups"/>
+      
+     
+      
+      <TextView android:id="@+id/Curr_location"
+           android:layout_width="100dp"
+            android:layout_height="wrap_content"
+             android:layout_alignParentLeft="true"
+              android:layout_below="@+id/blood_desc"
+               android:layout_marginTop="32dp" 
+                android:text="@string/curr_loc"/>
+      
+      <EditText android:id="@+id/txtPlace_name"
+           android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+             android:layout_alignLeft="@+id/blood_desc"
+              android:layout_alignTop="@+id/Curr_location"
+               android:ems="10" android:inputType="textPersonName"/>
+      
+      <TextView android:id="@+id/Cnct_no"
+           android:layout_width="100dp"
+            android:layout_height="wrap_content"
+             android:layout_alignParentLeft="true"
+              android:layout_below="@+id/Curr_location"
+               android:layout_marginTop="32dp"
+                android:text="@string/contact"/>
+      
+      <EditText android:id="@+id/phone_no"
+           android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+             android:layout_below="@+id/txtPlace_name"
+              android:layout_toRightOf="@+id/Cnct_no"
+               android:ems="10"
+                android:inputType="textPersonName"/>
+      
+      <Button android:id="@+id/btnEnter"
+           android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+             android:layout_alignLeft="@+id/phone_no"
+              android:layout_below="@+id/phone_no"
+               android:layout_marginLeft="25dp"
+                android:layout_marginTop="20dp"
+                 android:text="@string/enter"
+                  android:onClick="onClick"/>
+
+     <Button
+         android:id="@+id/btnnext"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignBottom="@+id/btnEnter"
+         android:layout_toRightOf="@+id/btnEnter"
+         android:text="@string/next"
+         android:onClick="onClick" />
+
+     <ImageButton
+         android:id="@+id/imgSearchPlace"
+         android:layout_width="40dp"
+         android:layout_height="30dp"
+         android:layout_alignParentRight="true"
+         android:layout_alignTop="@+id/txtPlace_name"
+         android:contentDescription="@string/Search"
+         android:src="@drawable/search" 
+         android:onClick="onClick" />
+
+</RelativeLayout>

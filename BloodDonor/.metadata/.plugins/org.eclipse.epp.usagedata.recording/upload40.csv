@@ -1,0 +1,251 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620018
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240620019
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620019
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620019
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240620020
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620020
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620020
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240620021
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620021
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620021
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240620021
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620021
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620022
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240620022
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620022
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620023
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240620023
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620023
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620023
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240620024
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620024
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620024
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240620025
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620025
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620025
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240620026
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620026
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620026
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240620027
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620027
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620027
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240620027
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620027
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620028
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240620028
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620028
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620029
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240620029
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620029
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620029
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240620030
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620030
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620030
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240620031
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620031
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620031
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240620032
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620032
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620032
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240620033
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620033
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620033
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240620033
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620033
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620034
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240620034
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620034
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240620035
+error,log,,,"Unhandled event loop exception",1343240620055
+error,log,,,"Unhandled event loop exception",1343240621258
+error,log,,,"Unhandled event loop exception",1343240621405
+error,log,,,"Unhandled event loop exception",1343240621560
+error,log,,,"Unhandled event loop exception",1343240622098
+error,log,,,"Unhandled event loop exception",1343240622644
+error,log,,,"Unhandled event loop exception",1343240622683
+error,log,,,"Unhandled event loop exception",1343240622871
+error,log,,,"Unhandled event loop exception",1343240623066
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240623162
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240623163
+error,log,,,"Unhandled event loop exception",1343240623303
+error,log,,,"Unhandled event loop exception",1343240623783
+error,log,,,"Exception in org.eclipse.ui.internal.PageLayout.addView: org.eclipse.ui.PartInitException: Could not create view: org.eclipse.mylyn.tasks.ui.views.tasks",1343240623938
+error,log,,,"Exception in org.eclipse.ui.internal.PageLayout.addView: org.eclipse.ui.PartInitException: Could not create view: org.eclipse.mylyn.tasks.ui.views.tasks",1343240623939
+error,log,,,"Unable to create view ID org.eclipse.ui.views.ContentOutline: Invalid registry object",1343240624076
+opened,view,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1343240624111
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240624208
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240624219
+activated,perspective,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.JavaPerspective",1343240624237
+closed,view,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.views.ProgressView",1343240624251
+error,log,,,"Unhandled event loop exception",1343240624458
+error,log,,,"The command (""org.eclipse.debug.ui.commands.ToggleLineBreakpoint"") is undefined",1343240624574
+error,log,,,"Unhandled event loop exception",1343240624575
+error,log,,,"Unhandled event loop exception",1343240624732
+error,log,,,"Unhandled event loop exception",1343240624888
+error,log,,,"Unhandled event loop exception",1343240625058
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240625101
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240625102
+error,log,,,"Unhandled event loop exception",1343240625252
+error,log,,,"Exception in org.eclipse.ui.internal.PageLayout.addView: org.eclipse.ui.PartInitException: Could not create view: org.eclipse.mylyn.tasks.ui.views.tasks",1343240625405
+error,log,,,"Exception in org.eclipse.ui.internal.PageLayout.addView: org.eclipse.ui.PartInitException: Could not create view: org.eclipse.mylyn.tasks.ui.views.tasks",1343240625406
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240625542
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240625549
+activated,perspective,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.JavaPerspective",1343240625562
+error,log,,,"Unhandled event loop exception",1343240625777
+error,log,,,"Unhandled event loop exception",1343240626194
+error,log,,,"Exception in org.eclipse.ui.internal.PageLayout.addView: org.eclipse.ui.PartInitException: Could not create view: org.eclipse.mylyn.tasks.ui.views.tasks",1343240626476
+error,log,,,"Exception in org.eclipse.ui.internal.PageLayout.addView: org.eclipse.ui.PartInitException: Could not create view: org.eclipse.mylyn.tasks.ui.views.tasks",1343240626477
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240626650
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240626793
+activated,perspective,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.JavaPerspective",1343240626810
+error,log,,,"Unhandled event loop exception",1343240627096
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240627305
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240627306
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240627307
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240627308
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240627310
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240627310
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240627333
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240627333
+error,log,,,"Unhandled event loop exception",1343240627598
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240627857
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240627858
+error,log,,,"Unhandled event loop exception",1343240628077
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240628099
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240628099
+error,log,,,"Unhandled event loop exception",1343240628555
+error,log,,,"Unhandled event loop exception",1343240628734
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240628739
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240628740
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240628773
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240628773
+error,log,,,"Unhandled event loop exception",1343240628924
+error,log,,,"Unhandled event loop exception",1343240629365
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240629379
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240629379
+error,log,,,"Unhandled event loop exception",1343240629537
+error,log,,,"Exception in org.eclipse.ui.internal.PageLayout.addView: org.eclipse.ui.PartInitException: Could not create view: org.eclipse.mylyn.tasks.ui.views.tasks",1343240629665
+error,log,,,"Exception in org.eclipse.ui.internal.PageLayout.addView: org.eclipse.ui.PartInitException: Could not create view: org.eclipse.mylyn.tasks.ui.views.tasks",1343240629665
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240629776
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240629784
+activated,perspective,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.JavaPerspective",1343240629797
+error,log,,,"Unhandled event loop exception",1343240630059
+error,log,,,"Exception in org.eclipse.ui.internal.PageLayout.addView: org.eclipse.ui.PartInitException: Could not create view: org.eclipse.mylyn.tasks.ui.views.tasks",1343240630633
+error,log,,,"Exception in org.eclipse.ui.internal.PageLayout.addView: org.eclipse.ui.PartInitException: Could not create view: org.eclipse.mylyn.tasks.ui.views.tasks",1343240630633
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240630737
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240630745
+activated,perspective,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.JavaPerspective",1343240630753
+error,log,,,"Unhandled event loop exception",1343240630990
+error,log,,,"Exception in org.eclipse.ui.internal.PageLayout.addView: org.eclipse.ui.PartInitException: Could not create view: org.eclipse.mylyn.tasks.ui.views.tasks",1343240631291
+error,log,,,"Exception in org.eclipse.ui.internal.PageLayout.addView: org.eclipse.ui.PartInitException: Could not create view: org.eclipse.mylyn.tasks.ui.views.tasks",1343240631291
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240631377
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240631394
+activated,perspective,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.JavaPerspective",1343240631403
+error,log,,,"Unhandled event loop exception",1343240631683
+error,log,,,"Exception in org.eclipse.ui.internal.PageLayout.addView: org.eclipse.ui.PartInitException: Could not create view: org.eclipse.mylyn.tasks.ui.views.tasks",1343240631992
+error,log,,,"Exception in org.eclipse.ui.internal.PageLayout.addView: org.eclipse.ui.PartInitException: Could not create view: org.eclipse.mylyn.tasks.ui.views.tasks",1343240631993
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240632061
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343240632169
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240632207
+activated,perspective,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.JavaPerspective",1343240632232
+error,log,,,"Unhandled event loop exception",1343240632524
+error,log,,,"Invalid registry object",1343240632605
+error,log,,,"Invalid registry object",1343240632606
+error,log,,,"Invalid registry object",1343240632606
+error,log,,,"Invalid registry object",1343240632607
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343240632607
+error,log,,,"Invalid registry object",1343240632687
+error,log,,,"Invalid registry object",1343240632689
+error,log,,,"Invalid registry object",1343240632689
+error,log,,,"Invalid registry object",1343240632689
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343240632695
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343240632889
+error,log,,,"Unhandled event loop exception",1343240632958
+error,log,,,"Unhandled event loop exception",1343240632959
+error,log,,,"Unhandled event loop exception",1343240633240
+error,log,,,"Unhandled event loop exception",1343240633417
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240633425
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240633426
+error,log,,,"Unhandled event loop exception",1343240633579
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240633590
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240633591
+error,log,,,"Unhandled event loop exception",1343240633741
+error,log,,,"Unhandled event loop exception",1343240633903
+error,log,,,"Unhandled event loop exception",1343240634057
+error,log,,,"Unhandled event loop exception",1343240634253
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240634265
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240634266
+error,log,,,"Unhandled event loop exception",1343240634412
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240634463
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240634464
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343240634493
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343240634799
+error,log,,,"Unhandled event loop exception",1343240634835
+error,log,,,"Unhandled event loop exception",1343240634835
+error,log,,,"Unhandled event loop exception",1343240634836
+error,log,,,"Unhandled event loop exception",1343240634836
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343240634989
+error,log,,,"Unhandled event loop exception",1343240635168
+error,log,,,"Unhandled event loop exception",1343240635734
+error,log,,,"Exception in org.eclipse.ui.internal.PageLayout.addView: org.eclipse.ui.PartInitException: Could not create view: org.eclipse.mylyn.tasks.ui.views.tasks",1343240637348
+error,log,,,"Exception in org.eclipse.ui.internal.PageLayout.addView: org.eclipse.ui.PartInitException: Could not create view: org.eclipse.mylyn.tasks.ui.views.tasks",1343240637348
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240637483
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240637491
+activated,perspective,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.JavaPerspective",1343240637512
+error,log,,,"Unhandled event loop exception",1343240637767
+error,log,,,"Exception in org.eclipse.ui.internal.PageLayout.addView: org.eclipse.ui.PartInitException: Could not create view: org.eclipse.mylyn.tasks.ui.views.tasks",1343240637984
+error,log,,,"Exception in org.eclipse.ui.internal.PageLayout.addView: org.eclipse.ui.PartInitException: Could not create view: org.eclipse.mylyn.tasks.ui.views.tasks",1343240637984
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240638044
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240638054
+activated,perspective,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.JavaPerspective",1343240638069
+activated,perspective,org.eclipse.jdt.ui,,"org.eclipse.jdt.ui.JavaPerspective",1343240967409
+started,bundle,org.eclipse.osgi,3.7.2.v20120110-1415,"org.eclipse.osgi",1343240967410
+started,bundle,org.eclipse.equinox.simpleconfigurator,1.0.200.v20110815-1438,"org.eclipse.equinox.simpleconfigurator",1343240967411
+started,bundle,com.ibm.icu,4.4.2.v20110823,"com.ibm.icu",1343240967411
+started,bundle,org.eclipse.compare.core,3.5.200.I20110208-0800,"org.eclipse.compare.core",1343240967411
+started,bundle,org.eclipse.core.contenttype,3.4.100.v20110423-0524,"org.eclipse.core.contenttype",1343240967411
+started,bundle,org.eclipse.core.databinding.observable,1.4.0.I20110222-0800,"org.eclipse.core.databinding.observable",1343240967412
+started,bundle,org.eclipse.core.expressions,3.4.300.v20110228,"org.eclipse.core.expressions",1343240967412
+started,bundle,org.eclipse.core.filebuffers,3.5.200.v20110928-1504,"org.eclipse.core.filebuffers",1343240967412
+started,bundle,org.eclipse.core.filesystem,1.3.100.v20110423-0524,"org.eclipse.core.filesystem",1343240967412
+started,bundle,org.eclipse.core.jobs,3.5.101.v20120113-1953,"org.eclipse.core.jobs",1343240967412
+started,bundle,org.eclipse.core.net,1.2.100.I20110511-0800,"org.eclipse.core.net",1343240967412
+started,bundle,org.eclipse.core.resources,3.7.101.v20120125-1505,"org.eclipse.core.resources",1343240967412
+started,bundle,org.eclipse.core.runtime,3.7.0.v20110110,"org.eclipse.core.runtime",1343240967412
+started,bundle,org.eclipse.core.runtime.compatibility,3.2.100.v20100505,"org.eclipse.core.runtime.compatibility",1343240967412
+started,bundle,org.eclipse.core.runtime.compatibility.auth,3.2.200.v20110110,"org.eclipse.core.runtime.compatibility.auth",1343240967413
+started,bundle,org.eclipse.core.variables,3.2.500.v20110928-1503,"org.eclipse.core.variables",1343240967413
+started,bundle,org.eclipse.debug.core,3.7.1.v20111129-2031,"org.eclipse.debug.core",1343240967413
+started,bundle,org.eclipse.epp.mpc.ui,1.1.1.I20110907-0947,"org.eclipse.epp.mpc.ui",1343240967413
+started,bundle,org.eclipse.epp.usagedata.gathering,1.3.1.R201106061540,"org.eclipse.epp.usagedata.gathering",1343240967413
+started,bundle,org.eclipse.epp.usagedata.recording,1.3.1.R201106061540,"org.eclipse.epp.usagedata.recording",1343240967413
+started,bundle,org.eclipse.equinox.app,1.3.100.v20110321,"org.eclipse.equinox.app",1343240967413
+started,bundle,org.eclipse.equinox.common,3.6.0.v20110523,"org.eclipse.equinox.common",1343240967413
+started,bundle,org.eclipse.equinox.ds,1.3.1.R37x_v20110701,"org.eclipse.equinox.ds",1343240967414
+started,bundle,org.eclipse.equinox.event,1.2.100.v20110502,"org.eclipse.equinox.event",1343240967414
+started,bundle,org.eclipse.equinox.p2.artifact.repository,1.1.101.v20110815-1419,"org.eclipse.equinox.p2.artifact.repository",1343240967414
+started,bundle,org.eclipse.equinox.p2.core,2.1.1.v20120113-1346,"org.eclipse.equinox.p2.core",1343240967414
+started,bundle,org.eclipse.equinox.p2.director,2.1.1.v20111126-0211,"org.eclipse.equinox.p2.director",1343240967415
+started,bundle,org.eclipse.equinox.p2.directorywatcher,1.0.300.v20110815-1419,"org.eclipse.equinox.p2.directorywatcher",1343240967415
+started,bundle,org.eclipse.equinox.p2.engine,2.1.1.R37x_v20111003,"org.eclipse.equinox.p2.engine",1343240967416
+started,bundle,org.eclipse.equinox.p2.extensionlocation,1.2.100.v20110815-1419,"org.eclipse.equinox.p2.extensionlocation",1343240967416
+started,bundle,org.eclipse.equinox.p2.metadata,2.1.0.v20110815-1419,"org.eclipse.equinox.p2.metadata",1343240967416
+started,bundle,org.eclipse.equinox.p2.metadata.repository,1.2.0.v20110815-1419,"org.eclipse.equinox.p2.metadata.repository",1343240967416
+started,bundle,org.eclipse.equinox.p2.operations,2.1.1.R37x_v20111111,"org.eclipse.equinox.p2.operations",1343240967416
+started,bundle,org.eclipse.equinox.p2.publisher,1.2.0.v20110815-1419,"org.eclipse.equinox.p2.publisher",1343240967417
+started,bundle,org.eclipse.equinox.p2.reconciler.dropins,1.1.100.v20110815-1419,"org.eclipse.equinox.p2.reconciler.dropins",1343240967417
+started,bundle,org.eclipse.equinox.p2.repository,2.1.1.v20120113-1346,"org.eclipse.equinox.p2.repository",1343240967417
+started,bundle,org.eclipse.equinox.p2.touchpoint.eclipse,2.1.1.v20110815-1419,"org.eclipse.equinox.p2.touchpoint.eclipse",1343240967417
+started,bundle,org.eclipse.equinox.p2.ui.sdk.scheduler,1.0.100.v20110815-1419,"org.eclipse.equinox.p2.ui.sdk.scheduler",1343240967417
+started,bundle,org.eclipse.equinox.p2.updatechecker,1.1.200.v20110815-1419,"org.eclipse.equinox.p2.updatechecker",1343240967418
+started,bundle,org.eclipse.equinox.preferences,3.4.2.v20120111-2020,"org.eclipse.equinox.preferences",1343240967418
+started,bundle,org.eclipse.equinox.registry,3.5.101.R37x_v20110810-1611,"org.eclipse.equinox.registry",1343240967418
+started,bundle,org.eclipse.equinox.security,1.1.1.R37x_v20110822-1018,"org.eclipse.equinox.security",1343240967418
+started,bundle,org.eclipse.equinox.util,1.0.300.v20110502,"org.eclipse.equinox.util",1343240967418
+started,bundle,org.eclipse.help,3.5.100.v20110426,"org.eclipse.help",1343240967418
+started,bundle,org.eclipse.jdt.apt.core,3.3.500.v20110420-1015,"org.eclipse.jdt.apt.core",1343240967418
+started,bundle,org.eclipse.jdt.core,3.7.3.v20120119-1537,"org.eclipse.jdt.core",1343240967418
+started,bundle,org.eclipse.jdt.core.manipulation,1.4.0.v20110928-1453,"org.eclipse.jdt.core.manipulation",1343240967418
+started,bundle,org.eclipse.jdt.junit,3.7.0.v20110928-1453,"org.eclipse.jdt.junit",1343240967418
+started,bundle,org.eclipse.jdt.launching,3.6.1.v20111006_r372,"org.eclipse.jdt.launching",1343240967418

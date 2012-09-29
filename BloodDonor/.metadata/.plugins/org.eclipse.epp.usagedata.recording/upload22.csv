@@ -1,0 +1,276 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593052
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240593053
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593053
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593053
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240593053
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593054
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593054
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240593054
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593054
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593055
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240593055
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593055
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593055
+error,log,,,"Unhandled event loop exception",1343240593181
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240593364
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240593365
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240593365
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240593365
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240593366
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240593366
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240593366
+error,log,,,"Error notifying registry change listener.",1343240593369
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240593370
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240593370
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240593392
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593392
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593393
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240593393
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593394
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593394
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240593395
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593395
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593395
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240593398
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593398
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593399
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240593399
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593400
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593400
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240593401
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593401
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593401
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240593402
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593402
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593403
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240593405
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593405
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593406
+error,log,,,"Unhandled event loop exception",1343240593657
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240593665
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1343240593665
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240593685
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593686
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593686
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240593687
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593687
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593687
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240593687
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593688
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593688
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240593688
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593689
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593689
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240593689
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593689
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593690
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240593690
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593690
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593691
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240593691
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593691
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593692
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240593692
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593692
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240593692
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240593820
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240593821
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240593822
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240593823
+error,log,,,"The command (""org.eclipse.debug.ui.commands.ToggleLineBreakpoint"") is undefined",1343240593835
+error,log,,,"Unhandled event loop exception",1343240593939
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240593952
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240593952
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240593952
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240593952
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240593952
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240593953
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240593953
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240593953
+error,log,,,"Error notifying registry change listener.",1343240593955
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594185
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594185
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594185
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594185
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594186
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594186
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594186
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594186
+error,log,,,"Error notifying registry change listener.",1343240594190
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240594215
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594215
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594216
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240594216
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594216
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594217
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240594217
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594218
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594218
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240594218
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594219
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594219
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240594220
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594220
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594220
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240594221
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594221
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594221
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240594222
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594222
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594223
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240594223
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594223
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594224
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240594224
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594224
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594225
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240594226
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594226
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594226
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240594227
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594227
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594227
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240594228
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594228
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594228
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240594229
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594229
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594229
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240594230
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594230
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594231
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240594231
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594231
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594232
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240594233
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594233
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240594233
+error,log,,,"Unhandled event loop exception",1343240594417
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594451
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594452
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594452
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594452
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594452
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594453
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594454
+error,log,,,"Error notifying registry change listener.",1343240594455
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594698
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594699
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594699
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594699
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594699
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594700
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594700
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594700
+error,log,,,"Error notifying registry change listener.",1343240594702
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594703
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594703
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594704
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594704
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594704
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594704
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594704
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594705
+error,log,,,"Error notifying registry change listener.",1343240594707
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594708
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594708
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594709
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594709
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594748
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594748
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594749
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594749
+error,log,,,"Error notifying registry change listener.",1343240594750
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594768
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594769
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594769
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594769
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594769
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594770
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594770
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594770
+error,log,,,"Error notifying registry change listener.",1343240594772
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594773
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594774
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594774
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594774
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594774
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594774
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594775
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594775
+error,log,,,"Error notifying registry change listener.",1343240594778
+started,bundle,com.google.gdt.eclipse.core,3.0.1.v201206290132-rel-r37,"com.google.gdt.eclipse.core",1343240594845
+error,log,,,"An unexpected runtime error has occurred.",1343240594846
+started,bundle,com.google.gdt.eclipse.mobile.android,3.0.1.v201206290132-rel-r37,"com.google.gdt.eclipse.mobile.android",1343240594847
+error,log,,,"An unexpected runtime error has occurred.",1343240594848
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594960
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594960
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594961
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594961
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594961
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594962
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594962
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1343240594962
+error,log,,,"Error notifying registry change listener.",1343240594963
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240595131
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595131
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595131
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240595132
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595132
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595132
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240595133
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595133
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595133
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240595134
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595134
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595135
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240595135
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595136
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595136
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240595136
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595137
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595137
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240595137
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595138
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595138
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240595139
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595139
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595139
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240595140
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595140
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595140
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240595141
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595141
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595141
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240595142
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595142
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595142
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240595143
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595143
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595144
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240595144
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595145
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595145
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240595146
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595146
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595146
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240595147
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595147
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595148
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240595148
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595149
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595149
+error,log,,,"Unhandled event loop exception",1343240595175
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240595320
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595320
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595320
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240595321
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595321
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595321
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240595322
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595322
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595322
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1343240595323
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595323
+error,log,,,"Failed to update callback: org.eclipse.ui.newWizard",1343240595323
